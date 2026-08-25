@@ -57,7 +57,7 @@ python chunk_documents.py
 python build_database.py
 ```
 
-Uygulamayı başlatın:
+Web arayüzünü başlatın:
 
 ```bash
 python app.py
@@ -85,7 +85,7 @@ Projede cevaplanabilir, cevaplanamayan ve uç durum soruları için test senaryo
 - Sistem yalnızca bilgi tabanına eklenen tüketici kaynaklarına dayanır.
 - Retrieval başarısı embedding modeli ve belge parçalama yapısından etkilenebilir.
 - Kaynaklarda yeterli bilgi bulunmadığında sistem cevap üretmek yerine fallback mesajı verir.
-- Uygulama profesyonel hukuki danışmanlık amacı taşımaz.
+- Sistem profesyonel hukuki danışmanlık amacı taşımaz.
 
 ## Kaynaklar
 
