@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kayıt Ol | TüketiciRehber AI</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body class="login-body">
+
+<div class="login-page">
+
+    <section class="login-info">
+
+        <div class="login-brand">
+            <div class="brand-icon">⚖</div>
+
+            <div>
+                <div class="brand-name">TüketiciRehber AI</div>
+                <div class="brand-description">
+                    Tüketici Bilgi Asistanı
+                </div>
+            </div>
+        </div>
+
+        <div class="login-hero">
+
+            <span class="hero-badge">
+                TÜKETİCİ HAKLARI • GÜVENİLİR BİLGİ • KOLAY ERİŞİM
+            </span>
+
+            <h1>
+                Hesabınızı oluşturun.
+            </h1>
+
+            <p>
+                TüketiciRehber AI'ı kullanmak ve sohbet geçmişinizi
+                hesabınıza bağlı olarak saklamak için kayıt olun.
+            </p>
+
+        </div>
+
+        <div class="local-status">
+            <span class="status-dot"></span>
+            <strong>Sistem hazır</strong>
+            <span class="status-divider"></span>
+            Güvenli kullanıcı erişimi
+        </div>
+
+    </section>
+
+
+    <section class="login-form-area">
+
+        <div class="login-card">
+
+            <div class="login-card-header">
+
+                <span class="login-small-badge">
+                    YENİ HESAP
+                </span>
+
+                <h2>Kayıt olun</h2>
+
+                <p>
+                    Bilgi asistanına erişmek için hesabınızı oluşturun.
+                </p>
+
+            </div>
+
+            {% if hata %}
+            <div class="login-error">
+                {{ hata }}
+            </div>
+            {% endif %}
+
+            <form method="POST">
+
+                <div class="form-group">
+                    <label for="ad_soyad">Ad Soyad</label>
+
+                    <input
+                        id="ad_soyad"
+                        name="ad_soyad"
+                        type="text"
+                        placeholder="Adınızı ve soyadınızı girin"
+                        required
+                    >
+                </div>
+
+                <div class="form-group">
+                    <label for="eposta">E-posta adresi</label>
+
+                    <input
+                        id="eposta"
+                        name="eposta"
+                        type="email"
+                        placeholder="E-posta adresinizi girin"
+                        required
+                    >
+                </div>
+
+                <div class="form-group">
+                    <label for="sifre">Şifre</label>
+
+                    <input
+                        id="sifre"
+                        name="sifre"
+                        type="password"
+                        placeholder="En az 6 karakter"
+                        required
+                    >
+                </div>
+
+                <div class="form-group">
+                    <label for="sifre_tekrar">Şifre tekrar</label>
+
+                    <input
+                        id="sifre_tekrar"
+                        name="sifre_tekrar"
+                        type="password"
+                        placeholder="Şifrenizi tekrar girin"
+                        required
+                    >
+                </div>
+
+                <button class="login-button" type="submit">
+                    Kayıt Ol
+                    <span>→</span>
+                </button>
+
+            </form>
+
+            <div class="auth-links">
+                <div class="register-text">
+                    Zaten hesabınız var mı?
+                    <a href="{{ url_for('giris') }}">
+                        Giriş yapın
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+</div>
+
+</body>
+</html>

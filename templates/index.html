@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>TüketiciRehber AI</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='style.css') }}"
+    >
+</head>
+
+<body class="app-body">
+
+<div class="app-shell">
+
+    <!-- SOL MENÜ -->
+    <aside class="app-sidebar">
+
+    <div class="app-brand">
+        <div class="app-logo">⚖</div>
+
+        <div>
+            <div class="app-brand-title">
+                TüketiciRehber AI
+            </div>
+
+            <div class="app-brand-subtitle">
+                Tüketici Bilgi Asistanı
+            </div>
+        </div>
+    </div>
+
+
+    <!-- YENİ SOHBET -->
+    <button
+        id="newChatButton"
+        class="new-chat-button"
+        type="button"
+    >
+        <span>＋</span>
+        Yeni Sohbet
+    </button>
+
+
+    <!-- BİLGİ KAYNAKLARI -->
+    <div class="sidebar-label">
+        BİLGİ KAYNAKLARI
+    </div>
+
+    <nav class="source-navigation">
+
+        <div class="nav-item">
+            <span>▤</span>
+            Mesafeli Sözleşmeler
+        </div>
+
+        <div class="nav-item">
+            <span>⚖</span>
+            Tüketici Hakem Heyetleri
+        </div>
+
+        <div class="nav-item">
+            <span>↻</span>
+            Abonelik Sözleşmeleri
+        </div>
+
+        <div class="nav-item">
+            <span>◇</span>
+            Fiyat Etiketleri
+        </div>
+
+        <div class="nav-item">
+            <span>♻</span>
+            Yenilenmiş Ürünler
+        </div>
+
+    </nav>
+
+
+    <div class="sidebar-divider"></div>
+
+
+    <!-- SON SOHBETLER -->
+    <div class="history-section">
+
+        <div class="history-title-row">
+
+            <div class="sidebar-label history-label">
+                SON SOHBETLER
+            </div>
+
+            <button
+                id="refreshHistoryButton"
+                class="history-refresh"
+                type="button"
+                title="Sohbetleri yenile"
+            >
+                ↻
+            </button>
+
+        </div>
+
+
+        <div
+            id="sohbet-gecmisi"
+            class="chat-history"
+        >
+            <div class="history-loading">
+                Geçmiş yükleniyor...
+            </div>
+        </div>
+
+    </div>
+
+
+    <!-- ALT DURUM -->
+    <div class="sidebar-bottom">
+
+        <div class="rag-status">
+
+            <span class="status-dot"></span>
+
+            <div>
+                <strong>Sistem Aktif</strong>
+
+                
+            </div>
+
+        </div>
+
+        <a
+            class="logout-link"
+            href="/cikis"
+        >
+            ↪ Çıkış Yap
+        </a>
+
+    </div>
+
+</aside>
+
+
+    <!-- ANA İÇERİK -->
+    <main class="main-panel">
+
+        <header class="main-header">
+
+            <div>
+
+                <span class="main-badge">
+                    TÜKETİCİ HAKLARI ASİSTANI
+                </span>
+
+                <h1>
+                    Tüketici haklarınızı
+                    güvenilir kaynaklardan öğrenin.
+                </h1>
+
+                <p>
+                    T.C. Ticaret Bakanlığı tüketici bilgilendirme
+                    içeriklerinde arama yapın ve ilgili kaynaklara
+                    dayalı yanıtlar alın.
+                </p>
+
+                <div class="trust-items">
+
+                    <span>⌖ Yerel çalışma</span>
+                    <span>▣ Resmî kaynaklar</span>
+                    <span>◉ Kaynak destekli yanıtlar</span>
+
+                </div>
+
+            </div>
+
+
+           
+                
+
+        </header>
+
+
+        <!-- ÖRNEK SORULAR -->
+        <section
+            id="welcomeSection"
+            class="welcome-section"
+        >
+
+            <div class="section-title">
+                Örnek sorular
+            </div>
+
+
+            <div class="starter-grid">
+
+                <button
+                    class="starter-card"
+                    data-question="İnternetten aldığım bir üründen kaç gün içinde cayabilirim?"
+                >
+                    <span class="starter-icon">▤</span>
+
+                    <span>
+                        İnternetten aldığım üründen
+                        kaç gün içinde cayabilirim?
+                    </span>
+
+                    <span class="card-arrow">→</span>
+                </button>
+
+
+                <button
+                    class="starter-card"
+                    data-question="2026 yılında tüketici hakem heyetine hangi tutarın altındaki uyuşmazlıklarda başvurabilirim?"
+                >
+                    <span class="starter-icon">⚖</span>
+
+                    <span>
+                        Tüketici Hakem Heyetine
+                        ne zaman başvurabilirim?
+                    </span>
+
+                    <span class="card-arrow">→</span>
+                </button>
+
+
+                <button
+                    class="starter-card"
+                    data-question="Aboneliğimi internet üzerinden feshedebilir miyim?"
+                >
+                    <span class="starter-icon">↻</span>
+
+                    <span>
+                        Aboneliğimi internet üzerinden
+                        feshedebilir miyim?
+                    </span>
+
+                    <span class="card-arrow">→</span>
+                </button>
+
+
+                <button
+                    class="starter-card"
+                    data-question="Kasadaki fiyat etikettekinden yüksekse hangi fiyat geçerlidir?"
+                >
+                    <span class="starter-icon">◇</span>
+
+                    <span>
+                        Kasadaki fiyat etikettekinden
+                        yüksekse hangi fiyat geçerlidir?
+                    </span>
+
+                    <span class="card-arrow">→</span>
+                </button>
+
+            </div>
+
+        </section>
+
+
+        <!-- SOHBET -->
+        <section
+            id="chatArea"
+            class="chat-area"
+        ></section>
+
+
+        <!-- ALT INPUT -->
+        <div class="composer-wrapper">
+
+            <form
+                id="chatForm"
+                class="chat-composer"
+            >
+
+                <input
+                    id="questionInput"
+                    type="text"
+                    placeholder="Tüketici haklarıyla ilgili sorunuzu yazın..."
+                    autocomplete="off"
+                >
+
+                <button
+                    id="sendButton"
+                    type="submit"
+                    aria-label="Soruyu gönder"
+                >
+                    ➜
+                </button>
+
+            </form>
+
+
+            <div class="composer-note">
+                Yanıtlar yalnızca sisteme eklenen resmî
+                bilgilendirme kaynaklarına dayanır.
+            </div>
+
+        </div>
+
+    </main>
+
+</div>
+
+
+
+
+
+<!-- SOHBET SİLME MODALI -->
+<div id="deleteModal" class="modal-overlay">
+
+    <div class="delete-modal">
+
+        <div class="delete-modal-icon">
+            !
+        </div>
+
+        <h3>
+            Sohbeti silmek istiyor musunuz?
+        </h3>
+
+        <p>
+            Bu sohbet geçmişinizden kalıcı olarak silinecek.
+            Bu işlem geri alınamaz.
+        </p>
+
+        <div class="delete-modal-actions">
+
+            <button
+                id="cancelDeleteButton"
+                class="modal-cancel"
+                type="button"
+            >
+                Vazgeç
+            </button>
+
+            <button
+                id="confirmDeleteButton"
+                class="modal-delete"
+                type="button"
+            >
+                Sohbeti Sil
+            </button>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+<!-- JAVASCRIPT EN SONDA -->
+<script
+    src="{{ url_for('static', filename='app.js') }}"
+></script>
+
+</body>
+</html>

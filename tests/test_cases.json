@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "soru": "Foundry Local nedir ve ne işe yarar?",
+    "tur": "cevaplanabilir",
+    "beklenen_kaynak": "01_what_is_foundry_local.txt"
+  },
+  {
+    "id": 2,
+    "soru": "Embedding nedir ve RAG sisteminde ne işe yarar?",
+    "tur": "cevaplanabilir",
+    "beklenen_kaynak": "03_build_rag_application.txt"
+  },
+  {
+    "id": 3,
+    "soru": "Foundry Local hangi donanımlardan yararlanabilir?",
+    "tur": "cevaplanabilir",
+    "beklenen_kaynak": "04_sdk_reference.txt"
+  },
+  {
+    "id": 4,
+    "soru": "Model kataloğu ne işe yarar?",
+    "tur": "cevaplanabilir",
+    "beklenen_kaynak": "05_model_catalog.txt"
+  },
+  {
+    "id": 5,
+    "soru": "Foundry Local için Python sürümü ne olmalıdır?",
+    "tur": "cevaplanabilir",
+    "beklenen_kaynak": "02_get_started.txt"
+  },
+  {
+    "id": 6,
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "tur": "cevaplanamaz",
+    "beklenen": "Bu bilgi sağlanan belgelerde bulunamadı."
+  },
+  {
+    "id": 7,
+    "soru": "Bugün hava nasıl?",
+    "tur": "cevaplanamaz",
+    "beklenen": "Bu bilgi sağlanan belgelerde bulunamadı."
+  }
+]

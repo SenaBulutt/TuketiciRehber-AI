@@ -1,0 +1,92 @@
+FİYAT ETİKETLERİ HAKKINDA BİLGİLENDİRME
+
+22 Haziran 2026
+
+Fiyat etiketi nedir?
+Fiyat etiketi, satıcı tarafından perakende satışa sunulan malların bazı özellikleri hakkında tüketicileri bilgilendirmek amacıyla kullanılan etiketlerdir. Fiyat etiketinde hangi bilgilerin bulunması gerektiği 6502 sayılı Tüketicinin Korunması Hakkında Kanunun “Fiyat etiketi” başlıklı 54 üncü maddesine dayanılarak hazırlanan Fiyat Etiketi Yönetmeliğinde düzenlenmiştir.
+
+Hangi mallarda fiyat etiketi bulunmalıdır?
+Satıcı tarafından perakende satışa sunulan malların veya bu malların ambalajlarının ya da kaplarının üzerine kolaylıkla görülebilir ve okunabilir şekilde yazılı, dijital veya elektronik etiket konulması gerekmektedir.
+
+Fiyat etiketinde hangi bilgilerin bulunması gerekmektedir?
+Bir malın fiyat etiketinde;
+
+- Malın hangi ülkede üretildiğini belirten üretim yeri,
+- Malın türünü ifade eden (gömlek, kalem, bardak gibi) ayırıcı özelliği,
+- Malın tüm vergiler dâhil satış fiyatı,
+- Adet, metre gibi uzunluk, kilo gibi ağırlık, metrekare gibi alan veya metreküp gibi hacim ölçülerinden birinin net miktarıyla ifade edilen fiyat olan birim fiyatı,
+- Malın satış ve birim fiyatlarının uygulanmaya başlandığı tarih,
+- Üretim yeri Türkiye olan mallar için Ticaret Bakanlığınca tespit ve ilan edilen şekil, logo veya işaret,
+- Varsa malın ambalajının teslimine ya da iadesine ilişkin depozito bedeli,
+
+Bilgilerinin yer alması gerekmektedir. Ayrıca, bu bilgilerin Türkçe olması zorunludur.
+
+Fiyat etiketi nereye ve nasıl konulmalıdır?
+Fiyat etiketi, malların veya bunların ambalajlarının ya da kaplarının üzerine; aynı nitelikteki mal gruplarının veya raflarının üzerine konulmak, dikilmek, zımbalanmak, yapıştırılmak, bunlara herhangi bir bağ ile tutturulmak veya asılmak suretiyle, kolaylıkla görülebilir ve okunabilir biçimde, yazılı, dijital veya elektronik olarak konulmalıdır.
+Fiyat etiketi konulması mümkün olmayan hâllerde fiyat etiketinde bulunması gereken bilgilerin yer aldığı listelerin görülebilir ve okunabilir şekilde uygun yerlere asılması gerekmektedir.
+ 
+Fiyat etiketinde birim fiyata nasıl yer verilmelidir?
+Bazı mallar tüketicilere cam, naylon, karton, kâğıt ve bunlara benzer maddelerden oluşan kutu, kova, şişe, kavanoz, poşet, torba ve benzeri ambalajlar içinde satışa sunulabilmektedir. Bu malların türüne göre uygun olan adet, uzunluk, ağırlık, alan veya hacim gibi ölçü birimlerinden herhangi birinin net miktarı cinsinden ifade edilen fiyatı olan birim fiyatının kolaylıkla görülebilir ve okunabilir şekilde fiyat etiketine yazılması zorunludur. Eğer bir malın birim fiyatı satış fiyatı ile aynı ise bu malın birim fiyatının fiyat etiketinde yer alması gerekmez.
+Açık halde satılan malların fiyat etiketinde ise satış fiyatı yerine sadece birim fiyatı yer alabilir.
+
+Dara nedir ve açık halde satılan malların tartımında nasıl bir kural uygulanmaktadır?
+Dara, açık halde satılan bir ürünün içine konulduğu ve ürünle birlikte tartıldığı kabın ağırlığını ifade eder. Fiyat Etiketi Yönetmeliği gereğince, açık halde satılan malların net miktarı hesaplanırken bu kabın ağırlığının düşürülmesi zorunludur. Tüketicinin sadece satın aldığı ürünün net gramajına ödeme yapmasını sağlayan bu kuralda; plastik poşet, streç film ve kese kâğıdı gibi malın birim fiyatını etkilemeyecek hafif ambalajlar istisna tutulmuştur.
+
+Dara uygulamasında, ürün tartılırken önce ürünle birlikte kap veya ambalajın toplam ağırlığı belirlenir, ardından kap veya ambalajın ağırlığı yani dara miktarı toplam ağırlıktan düşülür. Elde edilen net ağırlık üzerinden ürünün satış fiyatı hesaplanır. Bu uygulamanın doğru şekilde yapılması büyük önem taşımaktadır. Dara uygulaması sayesinde tüketiciler, satın almadıkları ambalaj veya kap ağırlığı için ücret ödemez ve yalnızca ürünün gerçek miktarı kadar ödeme yaparlar. Bu durum hem fiyatlandırmada şeffaflığın sağlanmasına hem de tüketici haklarının korunmasına katkıda bulunmaktadır.
+
+Hangi mallarda fiyat etiketi bulundurma zorunluluğu yoktur?
+Aşağıda sayılan mallarda fiyat etiketi bulundurma zorunluluğu bulunmamaktadır:
+
+- Üzerinde veya ambalajında, etikette aranılan hususlar basılı olarak açıkça yazılı bulunan mallar,
+- Kitap, dergi ve gazete gibi üzerinde fiyatı belirtilmiş olan mallar (Bu tür ürünlerde fiyat bilgisi, fiziksel etiket yerine elektronik cihazlar aracılığıyla da tüketicilere sunulabilir. Ancak kullanılan elektronik cihazların sürekli çalışır durumda olması, tüketiciler tarafından kolayca erişilebilmesi ve yeterli sayıda bulunması gerekmektedir.),
+- Arttırma suretiyle veya özel kanunlarına göre satışı yapılan mallar.
+
+Kıymetli taş veya madenlerden yapılmış mallarda ise, etiket ve liste koyma zorunluluğu bulunmamakla birlikte bu malların cinslerine göre birim satış fiyatları işyerinin uygun bir yerinde kolaylıkla görülebilir ve okunabilir bir şekilde yer almalıdır. Bu satış fiyatlarına işçilik bedelinin dahil olup olmadığı ayrıca belirtilir.
+ 
+Tarife ve fiyat listesi nedir?
+Tarife ve fiyat listesi, hizmetin özelliği itibarıyla fiyat etiketi bulundurmaya elverişli olmamasından dolayı satış fiyatı hakkında tüketicileri bilgilendirmek üzere kullanılan listedir. Hizmete sunulan tüm ürünlerin, tarife ve fiyat listelerinde yer alması zorunludur.
+
+Tarife ve fiyat listesi nerelerde olmalıdır?
+Hizmetlerin özelliğine ve tüketiciye sunuluş biçimine göre, tarife ve fiyat listelerine ilişkin belge, levha, pano ve benzerleri hizmetin sunulduğu işyerinde, ayrıca lokanta, restoran, kafe, pastane ve benzeri yiyecek ve içecek hizmeti sunulan işyerlerinde ise işyerinin giriş kapısının önüne, giriş kapısının birden fazla olması durumunda her bir kapı için ayrı ayrı olacak şekilde ve hizmet sunulan masaların üstüne, tüketiciler tarafından kolaylıkla görülebilir ve okunabilir şekilde asılır, takılır veya konulur.
+
+Yiyecek ve içecek hizmeti sunan işletmelerde fiyat listelerinin (menülerin) masalarda yalnızca karekod (QR kod) ile gösterilmesi yeterli midir?
+Lokanta, restoran, kafe, pastane ve benzeri yiyecek ve içecek hizmeti sunulan işyerlerindeki masalarda fiyat listeleri tüketicilere karekod (QR kod) ile gösterilebilir. Ancak, tüketicinin talep etmesi hâlinde fiyat listesinin (menünün) işletme tarafından ayrıca fiziki olarak verilmesi yasal bir zorunluluktur. Tüketicilere sadece karekod uygulaması zorunlu tutulamaz.
+
+Karekod (QR kod) ile fiyat listesi uygulaması, işletmelerin sundukları ürün veya hizmetlere ilişkin fiyat bilgilerini dijital ortamda tüketicilere ulaştırmak amacıyla kullandıkları bir yöntemdir. Bu uygulamada tüketiciler, akıllı telefon veya benzeri cihazlar aracılığıyla karekod (QR kod) okutarak fiyat listelerine erişebilmektedir. İşletmeler, tarife ve fiyat listelerini karekod (QR kod) aracılığıyla tüketicilere sunabilirler. Ancak karekod (QR kod) kullanılması, fiziksel tarife ve fiyat listesi bulundurma yükümlülüğünü ortadan kaldırmamaktadır. Bu nedenle karekod (QR kod) uygulaması, geleneksel fiyat listelerinin yerine geçen bir yöntem değil, onları tamamlayıcı bir araç olarak değerlendirilmektedir. Böylece hem dijital erişim imkânı sağlanmakta hem de teknolojik cihaz kullanamayan veya karekod (QR kod) okuyamayan tüketicilerin fiyat bilgilerine ulaşma hakkı korunmaktadır.
+
+Yiyecek ve içecek hizmeti sunan işletmelerde, tüketicilerden servis ücreti, masa ücreti veya kuver ücreti alınabilir mi?
+Tüketicilerden, lokanta, kafe, restoran, pastane ve benzeri yiyecek ve içecek hizmeti sunulan işyerlerinde zaman zaman servis ücreti, masa ücreti veya kuver ücreti gibi farklı adlar altında ek bedeller talep edildiği görülmektedir.
+
+Fiyat Etiketi Yönetmeliği kapsamında, lokanta, kafe, restoran, pastane ve benzeri yiyecek ve içecek hizmeti sunulan işyerlerinde, tüketiciden servis ücreti, masa ücreti, kuver ücreti ve benzeri herhangi bir isim altında ilave ödeme talep edilemez.
+
+Buna karşılık bahşiş uygulaması ise, zorunlu bir ödeme niteliği taşımadığından tamamen tüketicinin isteğine bağlı gönüllü bir ödeme olup işletme tarafından zorunlu tutulamaz.
+ 
+Fiyat etiketi, tarife ve fiyat listelerinin içeriği nasıl olmalıdır?
+Etiketlerin, tarife ve fiyat listelerinin üzerindeki rakam ve harflerin; okunabilir, düzgün, eksiksiz, gerçeğe uygun, yeterli büyüklükte ve başka rakam, kelime ve işaretlerle karışıklığa sebebiyet vermeyecek şekilde olması ve yanıltıcı ve aldatıcı bilgiler içermemesi zorunludur. Bu hususların tüketiciler tarafından kolaylıkla görülebilecek, okunabilecek ve hangi mal ya da hizmete ait olduğu açıkça belli olacak şekilde konulması gerekir.
+
+Fiyat etiketi ve listelerde satış fiyatı yabancı para cinsinden olabilir mi?
+Satış fiyatlarının ‘Türk Lirası’, ‘TL’ veya ‘₺’ simgesi şeklinde yazılması zorunludur. Ancak, yurt dışında ifa edilecek olan paket tur, eğitim hizmetleri ve yurt dışına yönelik ulaşım ve konaklama hizmetlerinin bedelleri açısından böyle bir zorunluluk yoktur.
+
+Malın satış fiyatı ile kasa fiyatı arasında fark olması durumunda hangi fiyat uygulanır?
+Etiket fiyatı ile kasa fiyatı arasında bir farklılık olması durumunda, tüketici lehine olan fiyat esas alınır. Ürünün raf veya etiket üzerinde yer alan fiyatı ile kasada çıkan fiyatın farklı olması halinde, bu iki fiyat arasında daha düşük olanı geçerli kabul edilir ve tüketici o fiyat üzerinden ödeme yapar. Bu uygulama, tüketicinin yanıltılmasını önlemek ve fiyatlandırmada adaleti sağlamak amacıyla düzenlenmiştir. Böylece işletmelerin yanlış etiketleme, güncelleme hatası veya sistemsel farklılıklar nedeniyle tüketicinin zarar görmesinin önüne geçilir. Tüketici, her durumda kendisi için en avantajlı olan fiyat üzerinden ürünü satın alma hakkına sahiptir.
+
+İndirimli satışlarda fiyat bilgisi nasıl sunulmalıdır?
+İndirimli satışa konu edilen mal veya hizmetin indirimli satış fiyatı, indirimden önceki fiyatı, tarife ve fiyat listeleri ile etiketlerinde gösterilir.
+İndirimli satışa konu edilen mal veya hizmetin indirimden önceki satış fiyatının tespitinde, mal satışlarında indirimin uygulandığı tarihten önceki on gün içinde uygulanan en düşük fiyatı esas alınır.
+Meyve ve sebze gibi çabuk bozulabilen mallar ile hizmetlere ilişkin etiket, tarife ve fiyat listelerinde indirim miktarı veya oranı hesaplanırken indirimli fiyattan bir önceki fiyat esas alınır. Bu hususlara ilişkin ispat külfeti satıcı veya sağlayıcıya aittir.
+
+Fiyat etiketiyle ilgili aykırılık tespit edildiği durumlarda nerelere başvuru yapılabilir?
+Bakanlık (Ticaret İl Müdürlükleri), belediyeler ve ilgili odalar fiyat etiketine ilişkin hükümlerinin uygulanması ve izlenmesine ilişkin işleri yürütmekle görevlidir. Fiyat etiketiyle ilgili bir aykırılık tespit edilmesi durumunda gereği yapılmak üzere gerekli bilgi ve belgelerle bu mercilere başvurulabilir.
+ 
+Meslek kuruluşları veya mevzuatına göre yetkili kurumlarca belirlenen hizmetlere ilişkin fiyat listeleri ile Fiyat Etiketi Yönetmeliğindeki fiyat listeleri aynı kavramlar mıdır?
+Meslek odalarınca hazırlanarak yürürlüğe konan ve üyelerince de uyulması zorunluluğu yaptırıma bağlanan “fiyat listesi, asgari/azami fiyat” tespitine ilişkin düzenlemeler başta oda üyeleri arasında fiyattan kaynaklanan haksız rekabetin önlenmesi olmak üzere satışlara standart getirilmesi amacı ile yapılmıştır. Bu bağlamda, meslek odalarınca yapılan düzenlemelerle tüketicinin korunması mevzuatında yer alan düzenlemeler farklı amaçlar için yapılmış olup, odaların fiyat tespitine yönelik düzenlemelerine ilişkin olarak 6502 sayılı Kanun ve ilgili Yönetmelikte herhangi bir düzenleme bulunmamaktadır. Tüketicinin korunması mevzuatı kapsamında satıcı veya sağlayıcıların mal satımı ya da hizmet sunumu için tüketiciye sunmuş oldukları etiket, tarife ve fiyat listelerinin mevzuatta yer alan düzenlemelere uygun olup olmaması bakımından inceleme yapılmaktadır.
+
+Yerli Üretim Logosu Ne Anlama Gelir?
+Yerli üretim logosu, Türkiye’de üretilen ürünlerin yerli üretim olduğunu gösteren ve bu ürünlerde kullanılması zorunlu olan bir işarettir. Bu logo, tüketicinin ürünün yerli üretim olduğunu kolayca ayırt etmesini sağlamak amacıyla etiket üzerinde yer alır. İthal ürünlerde ise yerli üretim logosunun kullanılması yasaktır. Bunun yerine, ithal ürünlerin etiketlerinde ürünün üretildiği ülke bilgisi Türkçe olarak açık ve anlaşılır şekilde belirtilmelidir.
+
+Hangi ürünler yerli üretim kapsamında değerlendirilir?
+Fiyat Etiketinde Yerli Üretim Logosu Kullanılmasına İlişkin Tebliğin “Malın üretim yerinin belirlenmesi” başlıklı 6 maddesi uyarınca aşağıda sayılan mallar yerli üretim kapsamında değerlendirilmektedir:
+
+- 24/4/1957 tarihli ve 6948 sayılı Sanayi Sicil Kanunu’nun 1 inci maddesinin birinci fıkrası uyarınca, Türk Sanayi Siciline kayıtlı bir sanayi işletmesi tarafından, bir maddenin özellik, şekil veya bileşimini makine, cihaz, tezgâh, alet veya diğer vasıta ve kuvvetlerin yardımı ile veya sadece el emeği ile değiştirilmesi veya bu maddelerin işlenmesi suretiyle devamlı ve seri halinde Türkiye’de imalatı veya üretimi yapılan mallar ve çıkarılıp işlenen madenler,
+- Türkiye’de üretilen el ve ev sanatları ürünleri,
+- 4/11/1999 tarihli ve 4458 sayılı Gümrük Kanunu’nun 18 inci maddesi uyarınca, bir ülkede çıkartılan madenler, toplanan bitkisel ürünler; o ülkede doğan ve yetiştirilen canlı hayvanlar ve bunlardan elde edilen ürünler, avlanan balıklar ve diğer av ürünleri, o ülkenin bandırasını taşıyan gemilerce açık denizlerde avlanan deniz ürünleri ve bu ürünlerden elde edilen eşyalar, münhasır işletme hakkıyla diğer ülkelerin karasularından çıkarılan ürünler ile sadece hammadde elde etmek için o ülkede toplanan, imalat işlemlerinden veya kullanım kalıntılarından elde edilen atık ve artıklar.

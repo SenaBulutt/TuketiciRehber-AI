@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giriş | TüketiciRehber AI</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body class="login-body">
+
+<div class="login-page">
+
+    <section class="login-info">
+
+        <div class="login-brand">
+            <div class="brand-icon">⚖</div>
+
+            <div>
+                <div class="brand-name">TüketiciRehber AI</div>
+                <div class="brand-description">
+                    Tüketici Bilgi Asistanı
+                </div>
+            </div>
+        </div>
+
+        <div class="login-hero">
+
+            <span class="hero-badge">
+    TÜKETİCİ HAKLARI • GÜVENİLİR BİLGİ • KOLAY ERİŞİM
+</span>
+
+            <h1>
+                Tüketici haklarınızı<br>
+                daha kolay öğrenin.
+            </h1>
+
+            <p>
+                T.C. Ticaret Bakanlığı tüketici bilgilendirme
+                içeriklerini temel alarak sorularınıza açık,
+                anlaşılır ve kaynak destekli yanıtlar sunar.
+            </p>
+
+            <div class="feature-list">
+
+                <div class="feature-item">
+                    <div class="feature-icon">✓</div>
+                    <div>
+                        <strong>Resmî kaynaklara dayalı bilgi</strong>
+                        <span>
+                            Yanıtlar, sisteme eklenen T.C. Ticaret Bakanlığı
+                            tüketici bilgilendirme içeriklerinden oluşturulur.
+                        </span>
+                    </div>
+                </div>
+
+                <div class="feature-item">
+                    <div class="feature-icon">⌕</div>
+                    <div>
+                        <strong>Akıllı belge arama</strong>
+                        <span>
+                            Sorunuzla ilgili içerikler belgeler arasından
+                            bulunarak yanıta temel oluşturur.
+                        </span>
+                    </div>
+                </div>
+
+                <div class="feature-item">
+                    <div class="feature-icon">◈</div>
+                    <div>
+                        <strong>Gizlilik odaklı çalışma</strong>
+                        <span>
+                            Yapay zekâ modeli Foundry Local ile
+                            cihaz üzerinde çalıştırılır.
+                        </span>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="local-status">
+            <span class="status-dot"></span>
+            <strong>Sistem hazır</strong>
+<span class="status-divider"></span>
+Tüketici bilgi asistanı kullanıma hazır
+        </div>
+
+    </section>
+
+
+    <section class="login-form-area">
+
+        <div class="login-card">
+
+            <div class="login-card-header">
+
+                <span class="login-small-badge">
+                    TÜKETİCİREHBER AI
+                </span>
+
+                <h2>Hoş geldiniz</h2>
+
+                <p>
+                    Bilgi asistanına erişmek için giriş yapın.
+                </p>
+
+            </div>
+
+            {% if hata %}
+            <div class="login-error">
+                {{ hata }}
+            </div>
+            {% endif %}
+
+            <form method="POST">
+
+                <div class="form-group">
+
+                    <label for="eposta">
+                        E-posta adresi
+                    </label>
+
+                    <input
+                        id="eposta"
+                        name="eposta"
+                        type="email"
+                        placeholder="E-posta adresinizi girin"
+                        autocomplete="email"
+                        required
+                    >
+
+                </div>
+
+
+                <div class="form-group">
+
+                    <label for="sifre">
+                        Şifre
+                    </label>
+
+                    <input
+                        id="sifre"
+                        name="sifre"
+                        type="password"
+                        placeholder="Şifrenizi girin"
+                        autocomplete="current-password"
+                        required
+                    >
+
+                </div>
+
+
+                <button class="login-button" type="submit">
+
+                    Giriş Yap
+
+                    <span>→</span>
+
+                </button>
+
+            </form>
+
+
+           <div class="security-info">
+    <span>●</span>
+    Güvenli erişim
+</div>
+
+<div class="auth-links">
+
+    <a href="{{ url_for('sifremi_unuttum') }}">
+        Şifremi unuttum
+    </a>
+
+    <div class="register-text">
+        Hesabınız yok mu?
+        <a href="{{ url_for('kayit') }}">
+            Kayıt olun
+        </a>
+    </div>
+
+</div>
+
+</div>
+
+
+<div class="login-note">
+
+            <strong>Bilgilendirme:</strong>
+
+            TüketiciRehber AI hukuki danışmanlık hizmeti sunmaz.
+            Yanıtlar sisteme eklenen bilgilendirme kaynaklarıyla sınırlıdır.
+
+        </div>
+
+    </section>
+
+</div>
+
+</body>
+</html>
