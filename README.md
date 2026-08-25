@@ -71,7 +71,7 @@ http://127.0.0.1:5000
 
 adresine gidin.
 
-> İlk çalıştırmada Foundry Local modellerinin indirilmesi nedeniyle başlatma işlemi biraz zaman alabilir.
+
 
 ## Test
 
