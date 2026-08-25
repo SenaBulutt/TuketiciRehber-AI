@@ -2,7 +2,7 @@
 
 TüketiciRehber AI, **Microsoft Foundry Local** ve **Retrieval-Augmented Generation (RAG)** kullanılarak geliştirilmiş yerel bir tüketici hakları bilgi asistanıdır.
 
-Uygulama, T.C. Ticaret Bakanlığı tüketici bilgilendirme içeriklerinden ilgili bölümleri bulur ve kullanıcının sorusuna bu kaynaklara dayanarak cevap üretir. Model ve RAG işlemleri yerel ortamda çalışır.
+Sistem, T.C. Ticaret Bakanlığı tüketici bilgilendirme içeriklerinden ilgili bölümleri bulur ve kullanıcının sorusuna bu kaynaklara dayanarak cevap üretir. Model ve RAG işlemleri yerel ortamda çalışır.
 
 ## Nasıl Çalışır?
 
